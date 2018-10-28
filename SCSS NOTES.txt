@@ -1,0 +1,5 @@
+PREPROCESSOR
+============
+
+==> Large applications require large css files, this is where Preprocessor helps in.
+==> SCSS provides features like variables, nesting, mixins, inheritence etc.
